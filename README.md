@@ -70,7 +70,7 @@ We are actively building an open-source engineering task force to turn this conc
 
 This is an **independent, community-driven open-source initiative**. You do not need to wait for a job assignment—if you are passionate about pushing the boundaries of embedded hardware virtualization, your expertise is needed here.
 
-* **Discord Server:** [Insert Your Discord Invite Link Here]
+* **Discord Server:** [ https://discord.gg/BJ6CdaYjTS ]
 * **GitHub Discussions:** Feel free to open an Issue or Discussion thread with your technical thoughts, RFCs, or code proposals.
 
 ---
